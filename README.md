@@ -1,6 +1,6 @@
 # Amazon-Sales-Analysis
 ## Objective  
-The goal of this project is to analyse the Sales of Amazon, based on category and states.
+The goal of this project is to analyse the Sales and Profits of Amazon, based on category and states.
 
 ## Poblem Statement 
 
