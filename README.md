@@ -21,10 +21,6 @@ E-commerce
 
 Advanced
 
-## Programming Language 
-
-Python
-
 ## Tools 
 
 MS Power BI
